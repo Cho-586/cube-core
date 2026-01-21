@@ -2,7 +2,7 @@
 
 Example
 
-### cibes.ts
+### cubes.ts
 
 ```ts
 type Todo = {
